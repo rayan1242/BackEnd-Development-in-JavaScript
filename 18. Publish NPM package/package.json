@@ -1,0 +1,15 @@
+{
+  "name": "arijitdsa.js",
+  "version": "1.0.4",
+  "description": "An NPM package that can help you to use all the Data Structures and Algorithms in your coding implementations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arijit69-web/BackEnd-Development-in-NodeJS/tree/master/18.%20Publish%20NPM%20package"
+  },
+  "author": "Arijit Sarkar",
+  "license": "ISC"
+}
